@@ -1,8 +1,8 @@
 # Notes of the course of TS on ui.dev
 
-i'll be adding comments of the course and pasting paragraphs with important data for my notes.
+I'll be adding comments of the course and pasting paragraphs with important data for my notes.
 
-Commands 
+ 
 
 ## install TS with npm
 
